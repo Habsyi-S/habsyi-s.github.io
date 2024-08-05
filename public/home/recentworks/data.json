@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Services Computer",
+        "image": "images/servicekomputer.jpg",
+        "url": "/home/services/service1/",
+        "items": [
+            
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Services Laptop",
+        "image": "images/servicelaptop.jpg",
+        "url": "/home/services/service2/",
+        "items": [
+           
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Data recovery",
+        "image": "images/datarecovery.jpg",
+        "url": "/home/services/service3/",
+        "items": [
+          
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Software Installatios",
+        "image": "images/softwareinstall.png",
+        "url": "/home/services/service4/",
+        "items": [
+           
+        ]
+    }
+]

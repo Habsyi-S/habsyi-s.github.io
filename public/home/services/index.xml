@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on SmartCare</title>
+    <link>http://localhost:1313/home/services/</link>
+    <description>Recent content in Services on SmartCare</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Recovery</title>
+      <link>http://localhost:1313/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service3/</guid>
+      <description>&lt;p&gt;Di era digital saat ini, kehilangan data dapat menjadi masalah yang sangat mengganggu, baik untuk pengguna individu maupun bisnis. Layanan pemulihan data komputer kami dirancang untuk mengatasi berbagai situasi kehilangan data, mulai dari kerusakan hard drive&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Desktop Service</title>
+      <link>http://localhost:1313/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service1/</guid>
+      <description>&lt;p&gt;Layanan perbaikan desktop komputer kami menawarkan solusi komprehensif untuk memastikan sistem Anda berfungsi dengan optimal. Dari diagnosa masalah teknis hingga perbaikan fisik, tim ahli kami siap menangani berbagai isu yang mungkin Anda hadapi, seperti gangguan perangkat keras,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laptop Service</title>
+      <link>http://localhost:1313/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service2/</guid>
+      <description>&lt;p&gt;Layanan perbaikan laptop kami dirancang untuk memberikan solusi menyeluruh bagi berbagai masalah yang mungkin Anda hadapi dengan perangkat Anda. Tim teknisi kami berpengalaman dalam menangani berbagai kerusakan, mulai dari masalah perangkat keras seperti penggantian layar,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Installatios</title>
+      <link>http://localhost:1313/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service4/</guid>
+      <description>&lt;p&gt;Layanan instalasi perangkat lunak kami menyediakan solusi lengkap untuk memastikan bahwa aplikasi dan program yang Anda butuhkan terpasang dengan benar dan berfungsi dengan optimal. Dengan pengalaman teknis&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

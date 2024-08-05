@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on SmartCare</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on SmartCare</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Aug 2020 08:58:39 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 10 Update</title>
+      <link>http://localhost:1313/blog/win10/</link>
+      <pubDate>Sun, 02 Aug 2020 08:58:39 +0700</pubDate>
+      <guid>http://localhost:1313/blog/win10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Tentang Pembaruan Windows 10&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Windows 10 secara rutin menghadirkan pembaruan yang dirancang untuk meningkatkan performa, keamanan, dan fungsionalitas sistem operasi. Pembaruan ini meliputi penambahan fitur baru, perbaikan bug, dan pembaharuan keamanan yang penting untuk melindungi perangkat Anda dari potensi ancaman. Setiap pembaruan membawa berbagai perbaikan yang membantu Windows 10 bekerja lebih optimal dan efisien, serta memastikan kompatibilitas dengan perangkat keras dan perangkat lunak terbaru.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/win10.jpg&#34; alt=&#34;win10&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sistem Operasi</title>
+      <link>http://localhost:1313/blog/sistem_operasi/</link>
+      <pubDate>Mon, 17 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/sistem_operasi/</guid>
+      <description>Sistem operasi (OS) adalah perangkat lunak yang mengelola perangkat keras komputer dan menyediakan layanan untuk aplikasi perangkat lunak. Terdapat beberapa jenis sistem operasi yang dirancang untuk memenuhi kebutuhan yang berbeda-beda. Sistem operasi desktop seperti Microsoft Windows, macOS, dan berbagai distribusi Linux seperti Ubuntu dan Fedora dirancang untuk digunakan pada komputer pribadi dan laptop. Mereka menyediakan antarmuka grafis yang intuitif serta berbagai fitur untuk produktivitas, hiburan, dan pengelolaan file. Sistem operasi ini juga mendukung aplikasi pihak ketiga dan sering diperbarui untuk meningkatkan keamanan serta fungsionalitas.</description>
+    </item>
+  </channel>
+</rss>
